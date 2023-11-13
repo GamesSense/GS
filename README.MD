@@ -1,1 +1,1 @@
-https://gamesense.pub.github.io/
+GamesSense.github.io
